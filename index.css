@@ -2,7 +2,8 @@
     background-color: rgb(185, 131, 235);
 }
 a{
-    font-size: large;
+    font-size: 24px;
+    font-weight: bold;
     text-decoration: none;
 }
 .card-body{
@@ -16,6 +17,7 @@ a{
     margin: 40px;
     padding: 10px;
 }
+
 .card{
     border-radius: 0 60px 0 60px;
     
@@ -23,4 +25,7 @@ a{
 .footer{
   height: 50px;
 
+}
+h3{
+    text-align: center;
 }
