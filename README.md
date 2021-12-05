@@ -1,5 +1,5 @@
-Portfolio
-#### {Brief description of application}, {Date of current version}
+
+#### Portfolio
 #### By Melody Chepkorir
 ## Description
 This is my landing webpage porfolio containing list of projects I have done ,my education background my hobies and skills.
