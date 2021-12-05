@@ -6,7 +6,7 @@ This is my landing webpage porfolio containing list of projects I have done ,my 
 ### Home page
 ![alt text](https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(4).png?raw=true)
 ### About page
-![alt text]()
+![alt text](https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(5).png?raw=true)
 
 ## Setup/Installation Requirements
 Visual Studio
