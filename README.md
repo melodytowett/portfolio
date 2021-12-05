@@ -4,9 +4,9 @@
 ## Description
 This is my landing webpage porfolio containing list of projects I have done ,my education background my hobies and skills.
 ### Home page
-https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(4).png
+![alt text](https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(4).png?raw=true)
 ### About page
-https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(5).png
+![alt text]()
 
 ## Setup/Installation Requirements
 Visual Studio
