@@ -3,6 +3,8 @@
 #### By Melody Chepkorir
 ## Description
 This is my landing webpage porfolio containing list of projects I have done ,my education background my hobies and skills.
+### Home page
+![Home page image] (https://github.com/melodytowett/portfolio/blob/master/images/Frame%201%20(4).png)
 ## Setup/Installation Requirements
 Visual Studio
 Web Browser
